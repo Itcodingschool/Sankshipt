@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560462934901",
+    "project_id": "codeofcriminal-2acf9",
+    "storage_bucket": "codeofcriminal-2acf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560462934901:android:4a9d7cd223c36921fe993c",
+        "android_client_info": {
+          "package_name": "bnsvsipc.com.bns_vs_ipc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkR0ElI-yxxOCHIu1_XbSkZAhlFxjJYUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
